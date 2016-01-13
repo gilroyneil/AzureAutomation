@@ -1,0 +1,417 @@
+﻿<metadata xmlns="http://www.zimory.com/confserver/metadata/v1_0_0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+  <metadata lastModification="2012-12-19T15:37:17.329Z" xsi:schemaLocation="http://www.zimory.com/confserver/metadata/v1_0_0 metadata.xsd">
+
+  <set lastModification="2012-12-19T15:18:42.746Z" plugin="SAO-ES-Base">
+    <item lastModification="2012-12-17T15:33:32.165Z" type="plain" name="_NObase">TRUE</item>
+    <item lastModification="2012-12-17T15:33:32.165Z" type="plain" name="_conf_HA">TRUE</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SERVICEQUALITY">Managed Fulltime</item>
+
+	<item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_SSRS_USERNAME">sao\SP-T2013-SVC-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_SSRS_PASSWORD">D1sabl3d281660</item>
+
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_INSTALL_SSRS">true</item>
+
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_LANGUAGE_PACKS"><value>Italian</value><value>Russian</value></item>
+
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_BUSINESSUNIT">My Business Unit</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_PURPOSE">PRO</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_LOCATION">DE</item>
+
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_NUMBEROFUSERS">20000</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_AMOUNTINDEXEDITEMS">20000000</item>
+
+	<item lastModification="2014-02-25T08:40:06.987-03:00" type="plain" name="_conf_ENTERPRISE_USERS_AD_GROUP">EnterpriseUsers</item>
+<item lastModification="2014-02-25T08:40:06.987-03:00" type="plain" name="_conf_STANDARD_USERS_AD_GROUP">StandardUsers</item>
+
+
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_CUSTOMERADMIN1">sao\SP-T2013-FARM-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_CUSTOMERADMIN2">sao\SP-T2013-SSA-EU-S</item>
+
+    <item lastModification="2014-10-21T12:34:42.137+02:00" type="plain" name="_conf_WEB_APP_DOMAIN">sao.com</item>
+    <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_SEARCHCENTERURL">search</item>
+
+
+    <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_SMTP_ADDRESS">TEST@TEST.COM</item>
+    <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_SMTP_REPLYTO">REPLYTO@TEST.COM</item> 
+    <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_SMTP_OUTSERVER">MAIL.TEST.COM</item>
+
+
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_PROFILE_DOMAIN">sao</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_PROFILE_FOREST">sao.com</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_PROFILE_OU">OU=Test Customer Accounts,dc=sao,dc=com</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_PROFILE_Filter">
+    </item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_PROFILE_USERNAME">sao\administrator</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_PROFILE_PASSWORD">Start123</item>
+
+
+
+
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_LICENSE_SPKEY">NQTMW-K63MQ-39G6H-B2CH9-FRDWJ</item>
+
+<!-- 
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_CONTENT_WEB"></item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_CONTENT_FILE"></item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_CONTENT_BUSINESS">
+    </item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_CONTENT_SP">
+    </item>
+-->
+    
+    
+    <!--
+    <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_PRIVATE_IP_WEBAPPS">xxx.xxx.xxx.xxx,255.255.255.255</item>
+    <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_PUBLIC_IP_WEBAPPS">xxx.xxx.xxx.xxx,255.255.255.255</item>-->
+
+
+
+
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_INSTALL_USERNAME" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_INSTALL_PASSWORD" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_FARM_USERNAME" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_FARM_PASSWORD" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_WEB_USERNAME" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_WEB_PASSWORD" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_SERVICE_USERNAME" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_SERVICE_PASSWORD" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SSA_SP_SERVICE_USERNAME" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SSA_SP_SERVICE_PASSWORD" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_CACHEA_USERNAME" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_CACHEA_PASSWORD" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_CACHER_USERNAME" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_CACHER_PASSWORD" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_CRAWL_USERNAME" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_CRAWL_PASSWORD" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_TSYSA_USERNAME" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_TSYSA_PASSWORD" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SQL_INST_USERNAME" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SQL_INST_PASSWORD" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SQL_SERVER_USERNAME" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SQL_SERVER_PASSWORD" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SQL_SRVA_USERNAME" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SQL_SRVA_PASSWORD" />
+    <!--
+    
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_INSTALL_USERNAME">sao\SP-T2013-INST-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_INSTALL_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_FARM_USERNAME">sao\SP-T2013-FARM-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_FARM_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_WEB_USERNAME">sao\SP-T2013-WEB-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_WEB_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_SERVICE_USERNAME">sao\SP-T2013-SVC-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_SERVICE_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SSA_SP_SERVICE_USERNAME">sao\SP-T2013-SSA-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SSA_SP_SERVICE_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_CACHEA_USERNAME">sao\SP-T2013-FARM-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_CACHEA_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_CACHER_USERNAME">sao\SP-T2013-SVC-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_CACHER_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_CRAWL_USERNAME">sao\SP-T2013-SSA-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_CRAWL_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_TSYSA_USERNAME">sao\SP-T2013-FARM-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_TSYSA_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SQL_INST_USERNAME">sao\SP-T2013-FARM-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SQL_INST_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SQL_SERVER_USERNAME">sao\SP-T2013-SQL-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SQL_SERVER_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SQL_SRVA_USERNAME">sao\SP-T2013-SQL-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SQL_SRVA_PASSWORD">D1sabl3d281660</item>
+-->
+
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_CONTENT_WEB" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_CONTENT_FILE" />
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_CONTENT_BUSINESS">
+    </item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_CONTENT_SP">
+    </item>
+
+  </set>
+  
+  <set lastModification="2013-02-06T11:06:34.756Z" plugin="SAO-ES-EDiscovery">
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="_NOextension">true</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="_extension_position">1</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="_appliance_name">SAO ENT SEARCH ANCHOR</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="ext_active">true</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="ext_title">E-Discovery Service Extension</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="ext_short_desc" />
+  </set>
+  <set lastModification="2013-01-24T09:01:26.524Z" plugin="SAO-WAC-Base">
+    <item lastModification="2013-01-24T08:49:10.063Z" type="plain" name="_NObase">TRUE</item>
+    <item lastModification="2013-01-24T09:09:37.030Z" type="plain" name="_conf_EDITINGENABLED">true</item>
+    <item lastModification="2013-01-24T09:09:37.030Z" type="plain" name="_conf_TRANSLATIONENABLED">true</item>
+    <item lastModification="2013-01-24T09:09:37.030Z" type="plain" name="_conf_SPFARM_IP_ADDRESS">192.168.0.2421</item>
+    <item lastModification="2013-01-24T09:09:37.030Z" type="plain" name="_conf_SP_INSTALL_USERNAME">tsi\SVC-SHP-PUS01Inst</item>
+    <item lastModification="2013-01-24T09:09:37.030Z" type="plain" name="_conf_SP_INSTALL_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2013-01-24T09:09:37.030Z" type="plain" name="_conf_DOMAINJOIN_USERNAME">tsi\administrator</item>
+    <item lastModification="2013-01-24T09:09:37.030Z" type="plain" name="_conf_DOMAINJOIN_SNAME">tsi</item>
+    <item lastModification="2013-01-24T09:09:37.030Z" type="plain" name="_conf_DOMAINJOIN_FNAME">tsi.com</item>
+    <item lastModification="2013-01-24T09:09:37.030Z" type="plain" name="_conf_DOMAINJOIN_PASSWORD">Start123</item>
+    <item lastModification="2013-01-24T09:09:37.030Z" type="plain" name="_conf_DC_IP_ADDRESS">10.0.1.76</item>
+    <item lastModification="2013-01-24T09:09:37.030Z" type="plain" name="_conf_DOMAINJOIN_OU">OU=Domain Joined Servers,dc=tsi,dc=com</item>
+  </set>
+  <set lastModification="2012-12-17T15:18:42.746Z" plugin="SAO-SP-Base">
+ 
+    <item lastModification="2012-12-17T15:33:32.165Z" type="plain" name="_NObase">TRUE</item>
+
+    <item lastModification="2012-12-17T15:33:32.165Z" type="plain" name="_conf_HA">TRUE</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_LANGUAGE_PACKS"><value>Italian</value><value>Russian</value></item>
+ 	<item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_SSRS_USERNAME">sao\SP-T2013-SVC-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_SSRS_PASSWORD">D1sabl3d281660</item>
+
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_INSTALL_SSRS">true</item>
+
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SERVICEQUALITY">Managed Fulltime</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_BUSINESSUNIT">My Business Unit</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_PURPOSE">PRO</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_LOCATION">DE</item>
+
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_NUMBEROFUSERS">30000</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_AMOUNTDOCUMENTSTORAGE">100000</item>
+
+
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_CUSTOMERADMIN1">sao\jennis</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_CUSTOMERADMIN2">sao\glineker</item>
+
+    <item lastModification="2014-10-21T12:34:42.137+02:00" type="plain" name="_conf_WEB_APP_DOMAIN">sp.com</item>
+
+    <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_TEAMWEBAPP_URL">team</item>
+    <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_PORTALWEBAPP_URL">portal</item>
+    <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_BUSINESSWEBAPP_URL">business</item>
+    <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_PARTNERWEBAPP_URL">partner</item>
+    <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_MYSITESWEBAPP_URL">mysite</item>
+
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_APP_URL_DOMAIN">osapps.com</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_APP_URL_PREFIX">apps</item>
+
+
+    <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_SMTP_ADDRESS">TEST@TEST.COM</item>
+    <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_SMTP_REPLYTO">REPLYTO@TEST.COM</item>
+    <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_SMTP_DOMAIN">TEST.COM</item>
+    <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_SMTP_OUTSERVER">MAIL.TEST.COM</item>
+
+
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_PROFILE_DOMAIN">sao</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_PROFILE_FOREST">sao.com</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_PROFILE_OU">OU=Test Customer Accounts,dc=sao,dc=com</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_PROFILE_Filter">
+    </item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_PROFILE_USERNAME">sao\administrator</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_PROFILE_PASSWORD">Start123</item>
+
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_LICENSE_SPKEY">N3MDM-DXR3H-JD7QH-QKKCR-BY2Y7</item>
+    
+    <!--  <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_PRIVATE_IP_WEBAPPS">xxx.xxx.xxx.xxx,255.255.255.255</item>
+    <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_PUBLIC_IP_WEBAPPS">xxx.xxx.xxx.xxx,255.255.255.255</item>-->
+ 
+    <!--
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_STANDARD_USERS_AD_GROUP">StandardUsers</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_ENTERPRISE_USERS_AD_GROUP">EnterpriseUsers</item>
+    -->
+    	<item lastModification="2014-02-25T08:40:06.987-03:00" type="plain" name="_conf_ENTERPRISE_USERS_AD_GROUP">EnterpriseUsers</item>
+<item lastModification="2014-02-25T08:40:06.987-03:00" type="plain" name="_conf_STANDARD_USERS_AD_GROUP">StandardUsers</item>
+
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_INSTALL_USERNAME">sao\SP-T2013-INST-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_INSTALL_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_FARM_USERNAME">sao\SP-T2013-FARM-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_FARM_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_WEB_USERNAME">sao\SP-T2013-WEB-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_WEB_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_SERVICE_USERNAME">sao\SP-T2013-SVC-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_SERVICE_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SSA_SP_SERVICE_USERNAME">sao\SP-T2013-SSA-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SSA_SP_SERVICE_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_CACHEA_USERNAME">sao\SP-T2013-FARM-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_CACHEA_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_CACHER_USERNAME">sao\SP-T2013-SVC-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_CACHER_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_CRAWL_USERNAME">sao\SP-T2013-SSA-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_CRAWL_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_TSYSA_USERNAME">sao\SP-T2013-FARM-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_TSYSA_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SQL_INST_USERNAME">sao\SP-T2013-FARM-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SQL_INST_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SQL_SERVER_USERNAME">sao\SP-T2013-SQL-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SQL_SERVER_PASSWORD">D1sabl3d281660</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SQL_SRVA_USERNAME">sao\SP-T2013-SQL-EU-S</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SQL_SRVA_PASSWORD">D1sabl3d281660</item>
+
+    <!--
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_CONTENT_WEB"></item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_CONTENT_FILE"></item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_CONTENT_BUSINESS">
+    </item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_CONTENT_SP">
+    </item>
+-->
+   
+  </set>
+  
+  
+  <set lastModification="2013-02-06T11:06:34.756Z" plugin="SAO-ES-eQPS">
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="_NOextension">true</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="_extension_position">1</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="_appliance_name">SAO ENT SEARCH ANCHOR</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="ext_active">true</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="ext_title">E QPS</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="ext_short_desc" />
+  </set>
+  <set lastModification="2013-02-06T11:06:34.756Z" plugin="SAO-ES-HA">
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="_NOextension">true</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="_extension_position">1</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="_appliance_name">SAO ENT SEARCH ANCHOR</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="ext_active">false</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="ext_title">HA</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="ext_short_desc" />
+  </set>
+  <set lastModification="2013-02-06T11:06:34.756Z" plugin="SAO-ES-LP">
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="_NOextension">true</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="_extension_position">1</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="_appliance_name">SAO ENT SEARCH ANCHOR</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="ext_active">true</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="ext_title">HA</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="ext_short_desc">Italian</item>
+  </set>
+
+  <set lastModification="2013-02-06T11:06:34.756Z" plugin="SAO-ES-LP">
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="_NOextension">true</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="_extension_position">1</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="_appliance_name">SAO ENT SEARCH ANCHOR</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="ext_active">true</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="ext_title">HA</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="ext_short_desc">Russian</item>
+  </set>
+  <set lastModification="2013-02-06T11:06:34.756Z" plugin="SAO-SP-HA">
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="_NOextension">true</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="_extension_position">1</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="_appliance_name">SAO ENT SEARCH ANCHOR</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="ext_active">false</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="ext_title">HA</item>
+    <item lastModification="2013-02-06T11:06:34.757Z" type="plain" name="ext_short_desc" />
+  </set>
+  <set lastModification="" plugin="SAO-SQL-Base">
+	<item name="_NObase" type="plain" lastModification="">TRUE</item>
+	<item lastModification="2014-11-03T14:05:51.287+01:00" type="plain" name="_conf_PATCH_MANAGEMENT">false</item>
+	<item lastModification="" type="plain" name="_conf_AUTH_DOMAINS" />
+	<item lastModification="2014-11-03T14:05:51.287+01:00" type="plain" name="_conf_MANAGED_FULLTIME">false</item>
+	<item lastModification="2014-11-03T14:05:51.287+01:00" type="plain" name="_conf_AUTH_DOMAINS2">Option 4</item>
+	<item lastModification="2014-11-03T14:05:51.290+01:00" type="plain" name="_conf_LICENSE">T-Systems</item>
+	<item lastModification="2014-11-03T14:05:51.290+01:00" type="plain" name="_conf_HA">True</item>
+	<item lastModification="2014-11-03T14:05:43.850+01:00" type="plain" name="_conf_MACHINE_OU" />
+	<item lastModification="2014-11-03T14:05:51.290+01:00" type="plain" name="_conf_SQL_INSTANCE_SIZE">small</item>
+	<item lastModification="2014-11-03T14:05:51.290+01:00" type="plain" name="_conf_INSTANCE_NAME">myInstanceName</item>
+	<item lastModification="2014-11-03T14:05:51.290+01:00" type="plain" name="_conf_SQL_SERVER_PORT">3625</item>
+	<item lastModification="2014-11-03T14:05:43.853+01:00" type="plain" name="_conf_VCD_ORGANIZATION">EMP</item>
+	<item lastModification="2014-11-03T14:05:51.290+01:00" type="plain" name="_conf_DATA_REPORTING">false</item>
+	<item lastModification="2014-11-03T14:05:51.290+01:00" type="plain" name="_conf_LOCATION">DE</item>
+	<item lastModification="2014-11-03T14:05:51.290+01:00" type="plain" name="_conf_MONTHLY_AVAILABILITY">98,5% monthly availability without Disaster Recovery</item>
+	<item lastModification="2014-11-03T14:05:43.837+01:00" type="plain" name="_conf_OS_TYPE">Windows2008R2</item>
+	<item lastModification="2014-11-03T14:05:51.290+01:00" type="plain" name="_conf_AVG_LISTENER_NAME">myAVGlistener</item>
+	<item lastModification="2014-11-03T14:05:51.293+01:00" type="plain" name="_conf_CUSTOMERADMIN1">SHAREPINTO\SQLDBCreator</item>
+	<item lastModification="2014-11-03T14:05:51.290+01:00" type="plain" name="_conf_PURPOSE">PRD</item>
+	<item lastModification="2014-11-03T14:05:51.290+01:00" type="plain" name="_conf_AD_ACCOUNTS_AUTOCREATE">true</item>
+	<item lastModification="2014-11-03T14:05:43.840+01:00" type="plain" name="_conf_TSYSTEMS_ADMIN_ACCOUNT" />
+	<item lastModification="2014-11-03T14:05:51.290+01:00" type="plain" name="_conf_AVG_PORT">3626</item>
+	<item lastModification="2014-11-03T14:05:51.290+01:00" type="plain" name="_conf_DB_STORAGE">100</item>
+	<item lastModification="2014-11-03T14:05:51.293+01:00" type="plain" name="_conf_CUSTOMERADMIN2">SHAREPINTO\SQLDBCreator2</item>
+	<item lastModification="2014-11-03T14:05:51.290+01:00" type="plain" name="_conf_BUSINESS_UNIT">my cost center</item>
+	<item lastModification="2014-11-03T14:05:51.290+01:00" type="plain" name="_conf_COLLATION">Latin1_General_CI_AS_KS_WS</item>
+	<item type="plain" name="_conf_SQL_INST_USERNAME">SHAREPINTO\SQL-INST-CIC-DEV</item>
+	<item type="plain" name="_conf_SQL_INST_PASSWORD">D1sabl3d</item>
+	<item type="plain" name="_conf_SQL_SERVER_USERNAME">SHAREPINTO\SQL-SERV-CIC-DEV</item>
+	<item type="plain" name="_conf_SQL_SERVER_PASSWORD">D1sabl3d</item>
+	<item type="plain" name="_conf_SQL_SRVA_USERNAME">SHAREPINTO\SQL-SERV-CIC-DEV</item>
+	<item type="plain" name="_conf_SQL_SRVA_PASSWORD">D1sabl3d</item>
+	<item name="_conf_SP_SSRS_USERNAME" type="plain">cicvcloud\sp-2013-b-svc-de</item>
+	<item name="_conf_SP_SSRS_PASSWORD" type="plain">D1sabl3d281660</item>
+	<item name="_conf_INSTALL_SSRS" type="plain">true</item>
+	</set>
+</metadata>
+  <customeronboardingdata xmlns="">
+    <DomainShortName>SHAREPINTO</DomainShortName>
+    <DomainFullName>SHAREPINTO.dom</DomainFullName>
+    <DC_IP>172.16.0.128</DC_IP>
+    <DomainJoinUserName>sharepinto\Administrator</DomainJoinUserName>
+    <DomainJoinPassword>D1sabl3d</DomainJoinPassword>
+    <LocalAdminPassword>D1sabl3d</LocalAdminPassword>
+    <DomainJoinOU>OU=CIC-SQL,DC=sharepinto,DC=dom</DomainJoinOU>
+    <BackupLocation>WIN-LHAQ9DPTNRT\NetworkShare</BackupLocation>
+    <ProxyServer />
+    <SSLPassword>d1sabl3d</SSLPassword>
+    <BackupShare>\\WIN-LHAQ9DPTNRT\NetworkShare</BackupShare>
+    <QuorumShare>\\WIN-LHAQ9DPTNRT\NetworkShare</QuorumShare>
+  </customeronboardingdata>
+</metadata>
+  <customerandenvironmentsettings xmlns="">
+    <UseCentralBackupStore>True</UseCentralBackupStore>
+    <InstallBAIForESService>True</InstallBAIForESService>
+    <doUseSmallDriveSizesForCIC>False</doUseSmallDriveSizesForCIC>
+    <doUse100GBFixedDriveSizes>True</doUse100GBFixedDriveSizes>
+    <isEMPDeployment>False</isEMPDeployment>
+    <isWin2012>True</isWin2012>
+    <windows2012Version>R1</windows2012Version>
+    <isSP2013SP1>True</isSP2013SP1>
+    <overrideSPSizingIndexItemCount />
+    <createAllClusterElements>True</createAllClusterElements>
+    <useLocalAdministratorForStartupScripts>True</useLocalAdministratorForStartupScripts>
+    <localAdminPassword>D1sabl3d</localAdminPassword>
+    <useSmallDBPreSizingForDevInstalls>True</useSmallDBPreSizingForDevInstalls>
+    <importservers>False</importservers>
+    <preinstallspbinariesforhainbaseprovisioning>False</preinstallspbinariesforhainbaseprovisioning>
+    <devseatisdc>True</devseatisdc>
+    <dev_vmrun_server_ip>10.0.1.65</dev_vmrun_server_ip>
+    <deploymentserver>WIN-LHAQ9DPTNRT</deploymentserver>
+    <deploymentserverusername>Administrator</deploymentserverusername>
+    <deploymentserverpassword>D1sabl3d</deploymentserverpassword>
+    <mediaserver>WIN-LHAQ9DPTNRT</mediaserver>
+    <mediaserverusername>Administrator</mediaserverusername>
+    <mediaserverpassword>D1sabl3d</mediaserverpassword>
+    <localmediapath>e:\data\media</localmediapath>
+    <spscriptlocation>\\WIN-LHAQ9DPTNRT\MediaShare\SP Scripts v3</spscriptlocation>
+    <sqlscriptlocation>\\WIN-LHAQ9DPTNRT\MediaShare\SP Scripts v3</sqlscriptlocation>
+    <htmlupdatefile>C:\inetpub\wwwroot\Status\update.html</htmlupdatefile>
+    <htmladminpage>C:\inetpub\wwwroot\Zimory\adminpage.html</htmladminpage>
+    <frontadminpage>C:\inetpub\wwwroot\Zimory\frontpage.html</frontadminpage>
+    <htmlstatuspage>C:\inetpub\wwwroot\Zimory\index.html</htmlstatuspage>
+    <zimorysettings>
+      <baseurl />
+      <certificatepath />
+      <certificatepassword />
+      <hostentry />
+    </zimorysettings>
+    <azuremobileservice>
+      <proxy />
+      <jsonurl />
+      <applicationkey>VioUAfsZEjYVDzPNlaluUPnKaesKEb13</applicationkey>
+      <registrationstable>Log_Registration</registrationstable>
+      <sessiontable>Log_Session</sessiontable>
+      <sessiondetailtable>Log_Data</sessiondetailtable>
+      <sessiondetailservertable>Log_Server_Data</sessiondetailservertable>
+      <customertable>Log_Customer</customertable>
+      <customerid>2</customerid>
+    </azuremobileservice>
+    <clustersettings>
+      <useDynamic>False</useDynamic>
+      <precreated_es>
+        <clusterips>SQLGEN_01_G1^CLUSA;10.0.1.100/255.255.255.0|</clusterips>
+        <listenerips>SQLGEN_01_G1^LISTA;10.0.1.110/255.255.255.0|</listenerips>
+        <makeADandDNSChanges>True</makeADandDNSChanges>
+      </precreated_es>
+      <precreated_SQL>
+        <clusterips>SQLGEN_01_G1^SHAREPINTOCLSTR;172.16.0.132/255.255.255.0|SQLGEN_02_G1^SHAREPINTOCLSTR;172.16.0.132/255.255.255.0</clusterips>
+        <listenerips>SQLGEN_01_G1^LISTA;172.16.0.133/255.255.255.0|SQLGEN_02_G1^LISTA;172.16.0.133/255.255.255.0</listenerips>
+        <makeADandDNSChanges>True</makeADandDNSChanges>
+      </precreated_SQL>
+      <precreated_sp>
+        <clusterips>SQLCON_01_C1^CLUSA;10.0.1.100/255.255.255.0|SQLOTH_01_C1^CLUSA;10.0.1.100/255.255.255.0|SQLSCH_01_C1^CLUSA;10.0.1.100/255.255.255.0|</clusterips>
+        <listenerips>SQLCON_01_C1^LIST_CON;10.0.1.110/255.255.255.0|SQLOTH_01_C1^LIST_OTH;10.0.1.111/255.255.255.0|SQLSCH_01_C1^LISTA;10.0.1.112/255.255.255.0|</listenerips>
+        <makeADandDNSChanges>True</makeADandDNSChanges>
+      </precreated_sp>
+      <dynamic>
+        <starting_clusterip>10.0.1.100/255.255.255.0</starting_clusterip>
+        <starting_listenerip>10.0.1.110/255.255.255.0</starting_listenerip>
+        <createDNSObjects>False</createDNSObjects>
+      </dynamic>
+    </clustersettings>
+  </customerandenvironmentsettings>
+</metadata>
