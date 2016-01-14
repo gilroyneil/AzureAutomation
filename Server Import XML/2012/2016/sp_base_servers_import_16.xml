@@ -1,0 +1,16 @@
+<baseservers>
+  <server>
+    <role>Web Server Group 1</role>
+    <minrole>SingleServerFarm</minrole>
+    <name>osazure12-sp0</name>
+    <datacenter>Core 1</datacenter>
+    <ip>10.1.0.5</ip>
+  </server>
+  <server>
+    <role>SQL Server for all DB Types</role>
+    <minrole>SQL</minrole>
+    <name>osazure12-sql0</name>
+    <datacenter>Core 1</datacenter>
+    <ip>10.1.1.4</ip>
+  </server>
+</baseservers>

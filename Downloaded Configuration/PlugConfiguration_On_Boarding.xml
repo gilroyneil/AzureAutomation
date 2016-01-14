@@ -1,0 +1,36 @@
+﻿<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <xsl:output method="xml" omit-xml-declaration="yes" indent="yes"/>
+
+
+  <xsl:template match="* | @*">
+    <xsl:copy>
+      <xsl:copy-of select = "."/>
+
+      <customeronboardingdata>
+
+      <DomainShortName>osazure</DomainShortName>
+        <DomainFullName>osazure.com</DomainFullName>
+        <DC_IP>10.1.0.4</DC_IP>
+        <DomainJoinUserName>osazure\ngadmin</DomainJoinUserName>
+        <DomainJoinPassword>Start123</DomainJoinPassword>
+        <LocalAdminPassword>Start123</LocalAdminPassword>
+        <DomainJoinOU>OU=HomeServers,dc=osazure,dc=com</DomainJoinOU>
+
+        <ProxyServer></ProxyServer>
+        <SSLPassword>d1sabl3d</SSLPassword>
+
+        <BackupShare>\\dcvpn3\backupshare</BackupShare>
+        <QuorumShare>\\dcvpn3\clustershare</QuorumShare>
+
+      
+    </customeronboardingdata>
+    </xsl:copy>
+
+
+
+
+  </xsl:template>
+
+
+
+</xsl:stylesheet>

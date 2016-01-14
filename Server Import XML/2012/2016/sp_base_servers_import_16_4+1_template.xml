@@ -1,0 +1,37 @@
+<baseservers>
+    <server>
+        <role>Web Server Group 1</role>
+        <minrole>WebFrontEnd</minrole>
+        <name>osazure11-sp0</name>
+        <datacenter>Core 1</datacenter>
+        <ip></ip>
+      </server>
+	  <server>
+        <role>Web Server Group 2</role>
+        <minrole>DistributedCache</minrole>
+        <name>osazure11-sp1</name>
+        <datacenter>Core 1</datacenter>
+      <ip></ip>
+      </server>
+    <server>
+        <role>Application Server Group 1</role>
+       <minrole>Application</minrole>
+        <name>osazure11-sp2</name>
+        <datacenter>Core 1</datacenter>
+      <ip></ip>
+      </server>
+    <server>
+        <role>Search Server Group 1</role>
+        <minrole>Search</minrole>
+        <name>osazure11-sp3</name>
+        <datacenter>Core 1</datacenter>
+      <ip></ip>
+      </server>
+    <server>
+        <role>SQL Server for all DB Types</role>
+        <minrole>SQL</minrole>
+        <name>osazure11-sql0</name>
+        <datacenter>Core 1</datacenter>
+      <ip></ip>
+      </server>    
+</baseservers>
