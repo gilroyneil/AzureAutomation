@@ -232,7 +232,7 @@
     <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_CUSTOMERADMIN1">osazure\bwilson</item>
     <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_CUSTOMERADMIN2">osazure\mjackson</item>
 
-    <item lastModification="2014-10-21T12:34:42.137+02:00" type="plain" name="_conf_WEB_APP_DOMAIN">osazure.com</item>
+    <item lastModification="2014-10-21T12:34:42.137+02:00" type="plain" name="_conf_WEB_APP_DOMAIN">osborn.work</item>
     
 
     
@@ -244,7 +244,7 @@
     <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_PARTNERWEBAPP_URL">partner</item>
     <item lastModification="2012-12-17T15:36:32.458Z" type="plain" name="_conf_MYSITESWEBAPP_URL">mysite</item>
 
-    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_APP_URL_DOMAIN">apps.osazure.com</item>
+    <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_APP_URL_DOMAIN">apps.osborn.work</item>
     <item lastModification="2012-12-17T15:36:32.457Z" type="plain" name="_conf_SP_APP_URL_PREFIX">apps</item>
 
 
